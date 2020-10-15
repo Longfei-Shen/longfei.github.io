@@ -1,11 +1,11 @@
 CLASSES = {
-  0: 'class0 glasses',
-  1: 'class1 headphone',
-  2: 'class2 mouse',
+  0: 'glasses',
+  1: 'headphone',
+  2: 'mouse',
 };
 
 const MODEL_PATH =
-    'model.json';
+    'https://github.com/Longfei-Shen/longfei.github.io/blob/main/model.json';
 
 const IMAGE_SIZE = 150;
 const TOPK_PREDICTIONS = 3;
