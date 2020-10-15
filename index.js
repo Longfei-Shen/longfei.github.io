@@ -5,7 +5,7 @@ CLASSES = {
 };
 
 const MODEL_PATH =
-    'https://github.com/Longfei-Shen/longfei.github.io/blob/main/model.json';
+    'model.json';
 
 const IMAGE_SIZE = 150;
 const TOPK_PREDICTIONS = 3;
